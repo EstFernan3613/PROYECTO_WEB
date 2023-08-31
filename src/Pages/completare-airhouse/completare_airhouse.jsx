@@ -6,4 +6,4 @@ const completare_airhouse = () => {
   )
 }
  
-export default completare_airhouse
+export default completare
