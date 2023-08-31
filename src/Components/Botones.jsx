@@ -5,5 +5,5 @@ const Botones = () => {
     <div>Botones</div>
   )
 }
-
+ 
 export default Botones

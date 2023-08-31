@@ -5,5 +5,5 @@ const alojamiento_completo = () => {
     <div>alojamiento_completo</div>
   )
 }
-
+ 
 export default alojamiento_completo

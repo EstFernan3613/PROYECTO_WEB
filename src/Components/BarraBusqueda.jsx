@@ -5,5 +5,5 @@ const BarraBusqueda = () => {
     <div>BarraBusqueda</div>
   )
 }
-
+ 
 export default BarraBusqueda

@@ -5,5 +5,5 @@ const Factura = () => {
     <div>Factura</div>
   )
 }
-
+ 
 export default Factura
