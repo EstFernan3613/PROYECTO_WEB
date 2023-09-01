@@ -5,5 +5,5 @@ const Ajolamiento = () => {
     <div>Ajolamiento</div>
   )
 }
- 
+
 export default Ajolamiento
