@@ -1,4 +1,5 @@
 import React from 'react'
+import './reserva_completa.css'
 
 const reserva_completa = () => {
   return (

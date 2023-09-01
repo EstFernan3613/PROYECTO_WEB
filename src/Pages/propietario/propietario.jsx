@@ -1,4 +1,5 @@
 import React from 'react'
+import './propietario.css'
 
 const propietario = () => {
   return (
