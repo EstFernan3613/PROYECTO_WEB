@@ -1,4 +1,5 @@
 import React from 'react'
+import './pagina_principal.css'
 
 const pagina_principal = () => {
   return (

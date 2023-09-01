@@ -1,4 +1,5 @@
 import React from 'react'
+import './BarraBusqueda.css'
 
 const BarraBusqueda = () => {
   return (
