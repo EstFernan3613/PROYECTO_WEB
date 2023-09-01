@@ -1,4 +1,5 @@
 import React from 'react'
+import './completard_airhouse.css'
 
 const completard_airhouse = () => {
   return (
