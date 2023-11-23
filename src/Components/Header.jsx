@@ -1,6 +1,6 @@
 import React from "react";
 
-import { RiHome2Line } from "react-icons/ri";
+import { RiHome2Line, RiAccountCircleFill} from "react-icons/ri";
 
 const Header = () => {
   return (
@@ -16,16 +16,16 @@ const Header = () => {
           Home
         </a>
         <a href="#aboutUs" className="">
-          About Us
+            Nosotros
         </a>
         <a href="#services" className="">
-          Services
+          Servicios
         </a>
         <a href="#aboutUs" className="">
-          Products
+          Inicia sesion
         </a>
       </nav>
-      <button className="bg-primary text-white px-4 py-2 rounded-md"></button>
+      <button><RiAccountCircleFill className="text-4xl relative -left-10 "/></button>
     </header>
   );
 };
