@@ -50,13 +50,13 @@ const Body = () => {
           <div>
           <img
             src="casa1.png"
-            className="w-[100px] h-[100px] md:w-[200px] md:h-[200px] object-cover xl:-mt-2 "
+            className="w-[100px] h-[100px] md:w-[200px] md:h-[200px] object-cover xl:mt-10 "
           />
           </div>
           <div>
           <img
             src="casa2.png"
-            className="absolute w-[100px] h-[100px] md:w-[200px] md:h-[200px] object-cover xl:-mt-30 xl:ml-60 bottom-11"
+            className="absolute w-[120px] h-[120px] md:w-[220px] md:h-[200px] object-cover xl:-mt-30 xl:ml-60 bottom-12"
           />
           </div>
         </div>
