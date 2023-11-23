@@ -1,0 +1,21 @@
+.PerfilUsuario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.perfil-info {
+    width: 300px;
+    margin-top: 20px;
+}
+
+.perfil-info h2 {
+    margin-bottom: 20px;
+}
+
+.perfil-info p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
